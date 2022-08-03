@@ -1,0 +1,9 @@
+jpa
+lombok
+sql driver
+web
+@Modifying
+@Query Native Query
+@Transactional
+Cascading
+FetchType (LAZY,EAGER)
